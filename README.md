@@ -1,385 +1,135 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to GitHub - Where Code Comes to Life</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+# 🚀 Build the future with code
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #21262d 100%);
-            color: #f0f6fc;
-            overflow-x: hidden;
-        }
+<div align="center">
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)](https://github.com/yourusername)
+[![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)](https://github.com/yourusername)
 
-        .hero {
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            position: relative;
-            overflow: hidden;
-        }
+</div>
 
-        .hero::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: radial-gradient(circle at 50% 50%, rgba(56, 189, 248, 0.1) 0%, transparent 70%);
-            animation: pulse 4s ease-in-out infinite;
-        }
+---
 
-        @keyframes pulse {
-            0%, 100% { opacity: 0.3; }
-            50% { opacity: 0.6; }
-        }
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=38BCF8&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+things;Building+the+future+with+code" alt="Typing SVG" />
+</div>
 
-        .hero-content {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 60px;
-            align-items: center;
-            position: relative;
-            z-index: 1;
-        }
+---
 
-        .hero-text {
-            animation: slideInLeft 1s ease-out;
-        }
+## 💫 About Me
 
-        .hero-visual {
-            animation: slideInRight 1s ease-out;
-        }
+> Join over 100 million developers using GitHub to create, collaborate, and ship amazing software together. Your next breakthrough starts here.
 
-        @keyframes slideInLeft {
-            from { opacity: 0; transform: translateX(-50px); }
-            to { opacity: 1; transform: translateX(0); }
-        }
+```javascript
+const developer = {
+  name: "Your Name",
+  role: "Software Developer",
+  location: "Your Location",
+  languages: ["JavaScript", "Python", "Java", "C++"],
+  technologies: ["React", "Node.js", "Docker", "AWS"],
+  currentFocus: "Building amazing things",
+  funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
 
-        @keyframes slideInRight {
-            from { opacity: 0; transform: translateX(50px); }
-            to { opacity: 1; transform: translateX(0); }
-        }
+console.log("Welcome to my GitHub profile! 🎉");
+```
 
-        .hero h1 {
-            font-size: 3.5rem;
-            font-weight: 700;
-            line-height: 1.1;
-            margin-bottom: 20px;
-            background: linear-gradient(135deg, #38bdf8 0%, #06b6d4 50%, #0891b2 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
+## 🛠️ Tech Stack
 
-        .hero p {
-            font-size: 1.3rem;
-            color: #8b949e;
-            margin-bottom: 30px;
-            line-height: 1.6;
-        }
+<div align="center">
 
-        .cta-buttons {
-            display: flex;
-            gap: 20px;
-            margin-bottom: 40px;
-        }
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-        .btn {
-            padding: 15px 30px;
-            border: none;
-            border-radius: 8px;
-            font-size: 1.1rem;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            text-decoration: none;
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-        }
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-        .btn-primary {
-            background: linear-gradient(135deg, #238636 0%, #2ea043 100%);
-            color: white;
-            box-shadow: 0 4px 15px rgba(35, 134, 54, 0.3);
-        }
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-        .btn-primary:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(35, 134, 54, 0.4);
-        }
+</div>
 
-        .btn-secondary {
-            background: transparent;
-            color: #f0f6fc;
-            border: 2px solid #30363d;
-        }
+## 📊 GitHub Stats
 
-        .btn-secondary:hover {
-            background: #30363d;
-            transform: translateY(-2px);
-        }
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
 
-        .stats {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 30px;
-            margin-top: 40px;
-        }
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-        .stat-item {
-            text-align: center;
-            padding: 20px;
-            background: rgba(33, 38, 45, 0.5);
-            border-radius: 12px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(48, 54, 61, 0.3);
-            transition: transform 0.3s ease;
-        }
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-        .stat-item:hover {
-            transform: translateY(-5px);
-        }
+## 🔥 Featured Projects
 
-        .stat-number {
-            font-size: 2.5rem;
-            font-weight: 700;
-            color: #38bdf8;
-            display: block;
-        }
+<div align="center">
 
-        .stat-label {
-            color: #8b949e;
-            font-size: 0.9rem;
-            margin-top: 5px;
-        }
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true)](https://github.com/yourusername/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true)](https://github.com/yourusername/project2)
 
-        .code-visual {
-            background: #0d1117;
-            border-radius: 12px;
-            padding: 20px;
-            font-family: 'Courier New', monospace;
-            font-size: 0.9rem;
-            line-height: 1.6;
-            border: 1px solid #30363d;
-            position: relative;
-            overflow: hidden;
-        }
+</div>
 
-        .code-visual::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 30px;
-            background: linear-gradient(90deg, #f85149 0%, #f1c40f 33%, #2ea043 66%, #38bdf8 100%);
-            border-radius: 12px 12px 0 0;
-        }
+## 🎯 Current Goals
 
-        .code-content {
-            margin-top: 30px;
-        }
+- [ ] 🚀 Launch my next big project
+- [ ] 📚 Master a new programming language
+- [ ] 🤝 Contribute to more open source projects
+- [ ] 🎨 Build something that makes people's lives easier
 
-        .code-line {
-            display: flex;
-            align-items: center;
-            margin-bottom: 8px;
-            opacity: 0;
-            animation: typewriter 0.5s ease-out forwards;
-        }
+## 🌟 Quick Stats
 
-        .code-line:nth-child(1) { animation-delay: 0.5s; }
-        .code-line:nth-child(2) { animation-delay: 1s; }
-        .code-line:nth-child(3) { animation-delay: 1.5s; }
-        .code-line:nth-child(4) { animation-delay: 2s; }
+<div align="center">
 
-        @keyframes typewriter {
-            from { opacity: 0; transform: translateX(-10px); }
-            to { opacity: 1; transform: translateX(0); }
-        }
+| 📊 **Stats** | 📈 **Numbers** |
+|--------------|----------------|
+| 👥 **Followers** | 100+ |
+| 📦 **Repositories** | 50+ |
+| ⭐ **Stars Earned** | 500+ |
+| 🔥 **Contributions** | 1000+ |
 
-        .line-number {
-            color: #6e7681;
-            width: 30px;
-            text-align: right;
-            margin-right: 15px;
-        }
+</div>
 
-        .keyword { color: #ff7b72; }
-        .string { color: #a5d6ff; }
-        .comment { color: #8b949e; }
-        .function { color: #d2a8ff; }
+## 🎨 Contribution Graph
 
-        .floating-elements {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-            overflow: hidden;
-        }
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
 
-        .floating-icon {
-            position: absolute;
-            font-size: 1.5rem;
-            color: rgba(56, 189, 248, 0.3);
-            animation: float 6s ease-in-out infinite;
-        }
+## 🎵 Currently Vibing To
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0px) rotate(0deg); }
-            50% { transform: translateY(-20px) rotate(180deg); }
-        }
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyusername&count=1&unique=true" alt="Spotify Recently Played" />
+</div>
 
-        .floating-icon:nth-child(1) { top: 20%; left: 10%; animation-delay: 0s; }
-        .floating-icon:nth-child(2) { top: 60%; left: 80%; animation-delay: 2s; }
-        .floating-icon:nth-child(3) { top: 80%; left: 20%; animation-delay: 4s; }
+## 🤝 Let's Connect
 
-        @media (max-width: 768px) {
-            .hero-content {
-                grid-template-columns: 1fr;
-                text-align: center;
-            }
-            
-            .hero h1 {
-                font-size: 2.5rem;
-            }
-            
-            .cta-buttons {
-                flex-direction: column;
-                align-items: center;
-            }
-            
-            .stats {
-                grid-template-columns: 1fr;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="floating-elements">
-        <div class="floating-icon">⚡</div>
-        <div class="floating-icon">🚀</div>
-        <div class="floating-icon">💻</div>
-    </div>
+<div align="center">
 
-    <section class="hero">
-        <div class="container">
-            <div class="hero-content">
-                <div class="hero-text">
-                    <h1>Build the future with code</h1>
-                    <p>Join over 100 million developers using GitHub to create, collaborate, and ship amazing software together. Your next breakthrough starts here.</p>
-                    
-                    <div class="cta-buttons">
-                        <a href="#" class="btn btn-primary">
-                            🚀 Start coding
-                        </a>
-                        <a href="#" class="btn btn-secondary">
-                            📚 Explore projects
-                        </a>
-                    </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-                    <div class="stats">
-                        <div class="stat-item">
-                            <span class="stat-number">100M+</span>
-                            <span class="stat-label">Developers</span>
-                        </div>
-                        <div class="stat-item">
-                            <span class="stat-number">330M+</span>
-                            <span class="stat-label">Repositories</span>
-                        </div>
-                        <div class="stat-item">
-                            <span class="stat-number">28M+</span>
-                            <span class="stat-label">Organizations</span>
-                        </div>
-                    </div>
-                </div>
+</div>
 
-                <div class="hero-visual">
-                    <div class="code-visual">
-                        <div class="code-content">
-                            <div class="code-line">
-                                <span class="line-number">1</span>
-                                <span class="keyword">const</span> <span class="function">developer</span> = <span class="string">"you"</span>;
-                            </div>
-                            <div class="code-line">
-                                <span class="line-number">2</span>
-                                <span class="keyword">const</span> <span class="function">possibilities</span> = <span class="string">"infinite"</span>;
-                            </div>
-                            <div class="code-line">
-                                <span class="line-number">3</span>
-                                <span class="comment">// Welcome to GitHub! 🎉</span>
-                            </div>
-                            <div class="code-line">
-                                <span class="line-number">4</span>
-                                <span class="function">build</span>(<span class="string">"amazing-things"</span>);
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+---
 
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            // Add smooth scrolling for anchor links
-            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-                anchor.addEventListener('click', function (e) {
-                    e.preventDefault();
-                    document.querySelector(this.getAttribute('href')).scrollIntoView({
-                        behavior: 'smooth'
-                    });
-                });
-            });
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
+</div>
 
-            // Add interactive hover effects to buttons
-            const buttons = document.querySelectorAll('.btn');
-            buttons.forEach(button => {
-                button.addEventListener('mouseenter', function() {
-                    this.style.transform = 'translateY(-2px) scale(1.05)';
-                });
-                
-                button.addEventListener('mouseleave', function() {
-                    this.style.transform = 'translateY(0) scale(1)';
-                });
-            });
+---
 
-            // Animate stats on scroll
-            const observerOptions = {
-                threshold: 0.1,
-                rootMargin: '0px 0px -50px 0px'
-            };
-
-            const observer = new IntersectionObserver((entries) => {
-                entries.forEach(entry => {
-                    if (entry.isIntersecting) {
-                        entry.target.style.animation = 'slideInLeft 0.6s ease-out forwards';
-                    }
-                });
-            }, observerOptions);
-
-            document.querySelectorAll('.stat-item').forEach(stat => {
-                observer.observe(stat);
-            });
-        });
-    </script>
-</body>
-</html>
+⚡ *"The best way to predict the future is to create it."* - Peter Drucker
