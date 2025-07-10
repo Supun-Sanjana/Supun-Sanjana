@@ -58,7 +58,7 @@ I specialize in:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true)](https://github.com/yourusername/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true)](https://github.com/Supun-Sanjana/Void-Note-Frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true)](https://github.com/yourusername/project2)
 
 </div>
@@ -69,10 +69,6 @@ I specialize in:
 - [ ] 📚 Master a new programming language
 - [ ] 🤝 Contribute to more open source projects
 - [ ] 🎨 Build something that makes people's lives easier
-
-## 🌟 Quick Stats
-
-
 
 
 
