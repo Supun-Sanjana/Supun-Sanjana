@@ -51,7 +51,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Supun-Sanjana&repo=Void-Note-Frontend&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Supun-Sanjana">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Supun-Sanjana&repo=YourNextRepo&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Supun-Sanjana&repo=Hotel-management-Frontend&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
